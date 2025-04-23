@@ -1,0 +1,12 @@
+Title:  MUHAMMAD HAAMAD ZUBAIR
+Author:  MHZ
+Year: 2025
+Genre: LOL
+Read: Yes
+----------------------------------------
+Title: Python journey
+Author: MUHAMMAD HAMMAD ZUBAIR
+Year: 2025
+Genre: Python for bignners
+Read: Yes
+----------------------------------------

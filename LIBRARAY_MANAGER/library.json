@@ -1,0 +1,23 @@
+[
+    {
+        "title": " MUHAMMAD HAAMAD ZUBAIR",
+        "author": " MHZ",
+        "year": "2025",
+        "genre": "LOL",
+        "read": true
+    },
+    {
+        "title": "Python journey",
+        "author": "MUHAMMAD HAMMAD ZUBAIR",
+        "year": "2025",
+        "genre": "Python for bignners",
+        "read": true
+    },
+    {
+        "title": "MUHAMMAD HAAMAD ZUBAIR",
+        "author": "MHZ",
+        "year": "cls",
+        "genre": "7",
+        "read": false
+    }
+]
