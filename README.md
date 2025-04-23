@@ -20,22 +20,6 @@ A beginner-friendly version with the core features:
 
 > 📂 File: `basic_library_manager.py`
 
-## 🎬 Preview
-
-### ✅ Basic Version
-
-📚 Welcome to the Basic Library Manager!
-
-1. Add a Book
-2. Remove a Book
-3. Search for a Book
-4. List All Books
-5. Mark Book as Read/Unread
-6. Exit
-
-Enter your choice (1-6):
-
----
 
 ### 2. 💎 Advanced Version
 A powerful, colorful, and fully-featured version with:
@@ -50,6 +34,39 @@ A powerful, colorful, and fully-featured version with:
 
 > 📂 File: `library_manager.py`  
 > 📁 Data File: `library.json`
+
+---
+### 🧠 Tech Stack
+
+- Python 3 🐍
+- Colorama for colorful CLI output 🎨 (Advanced)
+- JSON for lightweight data storage 📁
+- OOP principles in both versions 🧱
+
+## 👤 Author
+### ✍ Muhammad Hammad Zubair
+### 🌐 Python Developer & Problem Solver
+
+## ⭐ Final Words
+Whether you're just starting out or building something cool for your portfolio, this project has something for you. Start with Basic, and level up to the Advanced version when you're ready!
+
+## 🧠 Keep Learning. Keep Building. Keep Reading. 📖
+## 🌟 If you like it, star the repo and share it with others!
+
+## 🎬 Preview
+```bash
+### ✅ Basic Version
+
+📚 Welcome to the Basic Library Manager!
+
+1. Add a Book
+2. Remove a Book
+3. Search for a Book
+4. List All Books
+5. Mark Book as Read/Unread
+6. Exit
+
+Enter your choice (1-6):
 
 ---
 
@@ -71,21 +88,4 @@ A powerful, colorful, and fully-featured version with:
 8️⃣ Export Library to TXT
 9️⃣ Exit
 ➡ Enter your choice (1-9):
-
-### 🧠 Tech Stack
-
-- Python 3 🐍
-- Colorama for colorful CLI output 🎨 (Advanced)
-- JSON for lightweight data storage 📁
-- OOP principles in both versions 🧱
-
-## 👤 Author
-### ✍ Muhammad Hammad Zubair
-### 🌐 Python Developer & Problem Solver
-
-## ⭐ Final Words
-Whether you're just starting out or building something cool for your portfolio, this project has something for you. Start with Basic, and level up to the Advanced version when you're ready!
-
-## 🧠 Keep Learning. Keep Building. Keep Reading. 📖
-## 🌟 If you like it, star the repo and share it with others!
 
