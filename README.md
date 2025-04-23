@@ -24,7 +24,6 @@ A beginner-friendly version with the core features:
 
 ### ✅ Basic Version
 
-```bash
 📚 Welcome to the Basic Library Manager!
 
 1. Add a Book
@@ -56,7 +55,6 @@ A powerful, colorful, and fully-featured version with:
 
 ## 🎬 Preview (Advanced Version)
 
-```bash
 ╔════════════════════════════════════════════════╗
 ║        📚 Welcome to Personal Library!         ║
 ║         Manage your books like a pro! 🎯        ║
